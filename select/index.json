@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はじまりの羽音",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2025-12-18T09:48:17.209565Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりの羽音",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりの羽音_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
